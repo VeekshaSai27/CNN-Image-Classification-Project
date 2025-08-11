@@ -27,7 +27,7 @@ The model learns spatial hierarchies of features automatically from input images
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 - **Python**
 - **Keras**
 - **Jupyter Notebook**
